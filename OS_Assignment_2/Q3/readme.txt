@@ -1,0 +1,1 @@
+after running make all, load the module using insmod, to check msg use dmesg, the remove the module using rmmod 
